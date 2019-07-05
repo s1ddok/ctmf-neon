@@ -1,9 +1,9 @@
 //
 //  ctmf.h
-//  YpCbCr
+//  ctmf-neon
 //
-//  Created by Eugene Bokhan on 03/07/2019.
-//  Copyright © 2019 Eugene Bokhan. All rights reserved.
+//  Created by Andrey Volodin on 03/07/2019.
+//  Copyright © 2019 Andrey Volodin. All rights reserved.
 //
 
 #ifndef CTMF_H
